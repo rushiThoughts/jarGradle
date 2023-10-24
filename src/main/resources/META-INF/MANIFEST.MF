@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Main-Class: demo.ExecutableTest
+Class-Path: docker-java-3.3.3.jar selenium-api-3.141.59.jar jackson-data
+ bind-2.10.3.jar commons-exec-1.3.jar animal-sniffer-annotations-1.14.ja
+ r bcpkix-jdk18on-1.75.jar selenium-firefox-driver-3.141.59.jar httpcore
+ 5-h2-5.2.jar selenium-edge-driver-3.141.59.jar slf4j-api-2.0.7.jar dec-
+ 0.1.2.jar httpclient5-5.2.1.jar jna-5.12.1.jar docker-java-core-3.3.3.j
+ ar testng-6.4.jar groovy-all-2.3.6.jar docker-java-transport-3.3.3.jar 
+ selenium-support-3.141.59.jar error_prone_annotations-2.1.3.jar junit-4
+ .12.jar selenium-safari-driver-3.141.59.jar jackson-annotations-2.10.3.
+ jar jsr305-1.3.9.jar snakeyaml-1.6.jar j2objc-annotations-1.1.jar byte-
+ buddy-1.8.15.jar bcprov-jdk18on-1.75.jar commons-lang3-3.13.0.jar docke
+ r-java-api-3.3.3.jar hamcrest-core-1.3.jar selenium-java-3.141.59.jar w
+ ebdrivermanager-5.5.3.jar commons-compress-1.21.jar docker-java-transpo
+ rt-httpclient5-3.3.3.jar bcutil-jdk18on-1.75.jar httpcore5-5.2.jar sele
+ nium-remote-driver-3.141.59.jar okhttp-3.11.0.jar checker-compat-qual-2
+ .0.0.jar jcommander-1.12.jar gson-2.10.1.jar jcl-over-slf4j-1.7.30.jar 
+ jackson-core-2.10.3.jar commons-io-2.6.jar selenium-ie-driver-3.141.59.
+ jar bsh-2.0b4.jar okio-1.14.0.jar selenium-chrome-driver-3.141.59.jar g
+ uava-25.0-jre.jar selenium-opera-driver-3.141.59.jar
+
